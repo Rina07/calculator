@@ -1,0 +1,37 @@
+section {
+    border: 1px solid gray;
+    width: 262px;
+    height: 420px;
+    margin: auto;
+}
+.calc {
+    width: 232px;
+    height: 350px;
+    margin: auto;
+    font-size: 15px;    
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin: 5px;    
+    height: 45px;
+    width: 45px;
+}
+.display {
+    height: 35px;
+    font-size: 18px;
+    width: 222px;    
+    margin-bottom: 15px;
+    margin-right: 2px;
+    margin-left: 2px;
+    text-align: right;
+}
+
+.eq {
+    height: 45px;
+    width: 161px;
+}
+
